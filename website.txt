@@ -11,3 +11,6 @@ QQ企业邮箱网址：http://exmail.qq.com/login
 
 CSDN博客网址：http://blog.csdn.net/
 
+oracle学习博客：http://blog.csdn.net/pan_tian/article/category/1099332
+
+oracle告警日志文件博客：http://www.cnblogs.com/kerrycode/p/3899558.html
