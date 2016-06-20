@@ -14,3 +14,7 @@ CSDN博客网址：http://blog.csdn.net/
 oracle学习博客：http://blog.csdn.net/pan_tian/article/category/1099332
 
 oracle告警日志文件博客：http://www.cnblogs.com/kerrycode/p/3899558.html
+
+
+
+手动启动oracle服务：http://jingyan.baidu.com/article/bea41d437310bdb4c51be612.html
